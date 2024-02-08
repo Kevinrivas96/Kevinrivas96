@@ -3,7 +3,7 @@
 
 - 🎓 Systems Engineer.
 - 🕮 Computer Programmig student at Georgian College, Barrie, Canada.
-- 🤩 Passionate about Sofware Development.
+- 🤩 Passionate about Software Development.
 - 👨‍💻 Profficient at System Design and Problem Solving.
 - 🚀 Currently learning ASP.NET, Advanced Java and Microsoft Azure.
 - 🥅 2024 Goal: Land my first internship in summer (4 or 8 Months).
