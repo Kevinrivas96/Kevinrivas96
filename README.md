@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Web & Software Developer Enthusiast! 💻</h2>
 
 - 🎓 Systems Engineer.
-- 🕮 Computer Programmig student at Geothrrgian College, Barrie, Canada.
+- 🕮 Computer Programmig student at Georgian College, Barrie, Canada.
 - 🏆 Dean's List recognition for academic excellence in the last two terms (Summer23, Fall23).
 - 🤩 Passionate about Software Development.
 - 👨‍💻 Profficient at System Design and Problem Solving.
