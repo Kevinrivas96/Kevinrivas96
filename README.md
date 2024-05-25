@@ -3,11 +3,10 @@
 
 - 🎓 Systems Engineer.
 - 🕮 Computer Programming student at Georgian College, Barrie, Canada.
-- 🏆 Dean's List recognition for academic excellence in the last two terms (Summer23, Fall23).
+- 🏆 Dean's List recognition for academic excellence in the last three terms (Summer23, Fall23, Winter24).
 - 🤩 Passionate about Software Development.
 - 👨‍💻 Profficient at System Design and Problem Solving.
 - 🚀 Currently learning ASP.NET, Advanced Java and Microsoft Azure.
-- 🥅 2024 Goal: Land my first internship in summer (4 or 8 Months).
 - 🤔 Eager to Learn different Libraries and Frameworks such as Boostrap, Tailwind, React.
   
 ### Connect with me:
