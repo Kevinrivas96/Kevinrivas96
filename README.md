@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/kevn96/">Kevin Rivas</a>👋</h1>
 <h2 align="center">I'm a Web & Software Developer Enthusiast! 💻</h2>
 
-- 🎓 Systems Engineer.
-- 🕮 Computer Programming student at Georgian College, Barrie, Canada.
-- 🏆 Dean's List recognition for academic excellence in the last three terms (Summer23, Fall23, Winter24).
-- 🤩 Passionate about Software Development.
+- 🎓 Systems Engineering Bacherlor's Degree.
+- 🕮 Computer Programming graduate from Georgian College, Canada.
+- 🏆 Dean's List recognition for academic excellence in all terms (Summer23, Fall23, Winter24, Summer24, Fall24).
+- 🤩 Passionate about Software Development and Technology.
 - 👨‍💻 Profficient at System Design and Problem Solving.
 - 🚀 Currently learning ASP.NET, Advanced Java and Microsoft Azure.
 - 🤔 Eager to Learn different Libraries and Frameworks such as Boostrap, Tailwind, React.
